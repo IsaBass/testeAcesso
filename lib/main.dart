@@ -6,7 +6,7 @@ void main() {
   
   WidgetsFlutterBinding.ensureInitialized();
 
-//  Este main foi alterado aqui ok
+//  Esta quarrta
 
   runApp(ModularApp(module: AppModule()));
 }
